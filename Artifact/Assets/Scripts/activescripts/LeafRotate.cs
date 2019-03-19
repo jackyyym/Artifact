@@ -42,6 +42,10 @@ public class LeafRotate : ActiveLookable
                 foreach(Transform y in transform)
                     y.transform.Rotate(0, spinspeed, 0);
         }
+        else if (active)
+            foreach (Transform x in transform)
+                foreach (Transform y in transform)
+                    y.transform.Rotate(0, spinspeed * 2, 0);
     }
 
 }

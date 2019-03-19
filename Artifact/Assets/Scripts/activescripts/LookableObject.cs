@@ -36,19 +36,13 @@ public class LookableObject : MonoBehaviour
         float t = 0; // time being looked at
         while (r.IsVisibleFrom(Camera.main) && !Physics.Linecast(Camera.main.transform.position, transform.position))
         {
-            yield return new WaitForSeconds(0.05f);
-            t += 0.05f;
+            yield return new WaitForEndOfFrame();
+            t += Time.deltaTime;
             activescript.SetLookTime(t);
-            //Debug.Log("Looking at " + gameObject.name + " for " + t + " seconds.");
-            //m.material.color = Color.Lerp(Color.cyan, Color.blue, (t / lookduration));
             if (t >= lookduration)
             {
-               // m.material.color = Color.yellow;
-                //Debug.Log(gameObject.name + " is active!");
                 activescript.Activate();
                 yield return new WaitForSeconds(activeduration);
-
-               // m.material.color = Color.grey;
                 activescript.Deactivate();
                 yield return new WaitForSeconds(1.0f);
                 lookrunning = false;
@@ -57,7 +51,6 @@ public class LookableObject : MonoBehaviour
         }
         activescript.LookedAway();
         lookrunning = false;
-       // m.material.color = Color.gray;
     }
 
 }
