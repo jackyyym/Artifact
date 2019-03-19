@@ -16,6 +16,7 @@ public class LookableObject : MonoBehaviour
         r = GetComponent<Renderer>();
         m = GetComponent<MeshRenderer>();
         activescript.SetLookDuration(lookduration);
+        activescript.SetActiveDuration(activeduration);
     }
 
     // Update is called once per frame
@@ -38,24 +39,25 @@ public class LookableObject : MonoBehaviour
             yield return new WaitForSeconds(0.05f);
             t += 0.05f;
             activescript.SetLookTime(t);
-            Debug.Log("Looking at " + gameObject.name + " for " + t + " seconds.");
-            m.material.color = Color.Lerp(Color.cyan, Color.blue, (t / lookduration));
+            //Debug.Log("Looking at " + gameObject.name + " for " + t + " seconds.");
+            //m.material.color = Color.Lerp(Color.cyan, Color.blue, (t / lookduration));
             if (t >= lookduration)
             {
-                m.material.color = Color.yellow;
-                Debug.Log(gameObject.name + " is active!");
+               // m.material.color = Color.yellow;
+                //Debug.Log(gameObject.name + " is active!");
                 activescript.Activate();
                 yield return new WaitForSeconds(activeduration);
 
-                m.material.color = Color.grey;
+               // m.material.color = Color.grey;
                 activescript.Deactivate();
+                yield return new WaitForSeconds(1.0f);
                 lookrunning = false;
                 yield break;
             }
         }
         activescript.LookedAway();
         lookrunning = false;
-        m.material.color = Color.gray;
+       // m.material.color = Color.gray;
     }
 
 }
