@@ -19662,7 +19662,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxdis: 10
-  mindis: 5
+  mindis: 2
   turnspeed: 5
 --- !u!65 &1634057930
 BoxCollider:
@@ -25009,7 +25009,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxdis: 10
-  mindis: 5
+  mindis: 2
   turnspeed: 5
 --- !u!82 &2111343171
 AudioSource:
