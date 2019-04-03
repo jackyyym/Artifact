@@ -56,6 +56,10 @@ public class ProximityLook : MonoBehaviour
                 clip.volume = 0;
             }
         }
-        
+        else
+        {
+            clip.volume = 0;
+        }
+
     }
 }

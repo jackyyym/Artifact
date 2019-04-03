@@ -60,6 +60,10 @@ public class TreeProximityLook : MonoBehaviour
                 clip.volume = 0;
             }
         }
+        else
+        {
+            clip.volume = 0;
+        }
 
     }
 }
