@@ -1,15 +1,20 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Deform;
+
+// for the cube with sine
 
 public class ProximityLook : MonoBehaviour
 {
     public float maxdis = 15, mindis = 5;
+    public float deformmax = 180f;
     public float turnspeed = 5;
     private Vector3 ymask = new Vector3(1, 0, 1);
 
     private Renderer r;
     private AudioSource clip;
+    public TwistDeformer d;
 
     // Start is called before the first frame update
     void Start()
@@ -42,23 +47,27 @@ public class ProximityLook : MonoBehaviour
             if (angdis <= maxdis && angdis > mindis)
             {
                 clip.volume = normalzed_angdis;
-                transform.Rotate(0, turnspeed * normalzed_angdis, (turnspeed * normalzed_angdis) / 2);
+                transform.Rotate(0, (turnspeed * normalzed_angdis) / 2f, turnspeed * normalzed_angdis, Space.World);
+                d.EndAngle = deformmax * normalzed_angdis;
             }
             // within minimum boundary, spin speed and volume at maximum
             else if (angdis <= mindis)
             {
                 clip.volume = 1;
                 transform.Rotate(0, turnspeed, turnspeed / 2);
+                d.EndAngle = deformmax;
             }
             // outside of maximum range or out of sight
             else
             {
                 clip.volume = 0;
+                d.EndAngle = 0;
             }
         }
         else
         {
             clip.volume = 0;
+            d.EndAngle = 0;
         }
 
     }
