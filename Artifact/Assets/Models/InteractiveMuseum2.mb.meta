@@ -511,6 +511,537 @@ ModelImporter:
     101010: TreeTrunk1 2
     101012: TreeTrunk1 3
     101014: Tube_Object_1
+    101016: annotation1
+    101018: annotationLocator1
+    101020: Ceiling1
+    101022: Ceiling2
+    101024: ChandelierGlobe
+    101026: ChandelierInnerRings
+    101028: ChandelierOuterRings
+    101030: Column1
+    101032: Column2
+    101034: ColumnTop1
+    101036: ColumnTop2
+    101038: CorinthColumn1
+    101040: CorinthColumn2
+    101042: PaintingFrame
+    101044: PaintingFrame1
+    101046: PaintingFrame2
+    101048: PaintingFrame3
+    101050: PaintingFrame4
+    101052: PaintingFrame5
+    101054: pTorus2
+    101056: pTorus3
+    101058: pTorus4
+    101060: pTorus5
+    101062: robot
+    101064: StartingGallery
+    101066: WallTrim1
+    101068: BayWindow
+    101070: Ceiling3
+    101072: Ceiling4
+    101074: ChandelierBigRing
+    101076: ChandelierCrystals
+    101078: ChandelierMidRing
+    101080: ChandelierSmallRing
+    101082: Head
+    101084: Hips
+    101086: LeftArm
+    101088: LeftFoot
+    101090: LeftForeArm
+    101092: LeftHand
+    101094: LeftLeg
+    101096: LeftShoulder
+    101098: LeftToeBase
+    101100: LeftUpLeg
+    101102: Neck
+    101104: pCube100
+    101106: pCube102
+    101108: pCube104
+    101110: pCube106
+    101112: pCube108
+    101114: pCube109
+    101116: pCube110
+    101118: pCube111
+    101120: pCube112
+    101122: pCube113
+    101124: pCube114
+    101126: pCube115
+    101128: pCube116
+    101130: pCube117
+    101132: pCube118
+    101134: pCube119
+    101136: pCube120
+    101138: pCube121
+    101140: pCube122
+    101142: pCube123
+    101144: pCylinder8
+    101146: QuickRigCharacter_Ctrl_ChestEndEffector
+    101148: QuickRigCharacter_Ctrl_ChestOriginEffector
+    101150: QuickRigCharacter_Ctrl_Head
+    101152: QuickRigCharacter_Ctrl_HeadEffector
+    101154: QuickRigCharacter_Ctrl_Hips
+    101156: QuickRigCharacter_Ctrl_HipsEffector
+    101158: QuickRigCharacter_Ctrl_LeftAnkleEffector
+    101160: QuickRigCharacter_Ctrl_LeftArm
+    101162: QuickRigCharacter_Ctrl_LeftElbowEffector
+    101164: QuickRigCharacter_Ctrl_LeftFoot
+    101166: QuickRigCharacter_Ctrl_LeftFootEffector
+    101168: QuickRigCharacter_Ctrl_LeftForeArm
+    101170: QuickRigCharacter_Ctrl_LeftHand
+    101172: QuickRigCharacter_Ctrl_LeftHipEffector
+    101174: QuickRigCharacter_Ctrl_LeftKneeEffector
+    101176: QuickRigCharacter_Ctrl_LeftLeg
+    101178: QuickRigCharacter_Ctrl_LeftShoulder
+    101180: QuickRigCharacter_Ctrl_LeftShoulderEffector
+    101182: QuickRigCharacter_Ctrl_LeftToeBase
+    101184: QuickRigCharacter_Ctrl_LeftUpLeg
+    101186: QuickRigCharacter_Ctrl_LeftWristEffector
+    101188: QuickRigCharacter_Ctrl_Neck
+    101190: QuickRigCharacter_Ctrl_Reference
+    101192: QuickRigCharacter_Ctrl_RightAnkleEffector
+    101194: QuickRigCharacter_Ctrl_RightArm
+    101196: QuickRigCharacter_Ctrl_RightElbowEffector
+    101198: QuickRigCharacter_Ctrl_RightFoot
+    101200: QuickRigCharacter_Ctrl_RightFootEffector
+    101202: QuickRigCharacter_Ctrl_RightForeArm
+    101204: QuickRigCharacter_Ctrl_RightHand
+    101206: QuickRigCharacter_Ctrl_RightHipEffector
+    101208: QuickRigCharacter_Ctrl_RightKneeEffector
+    101210: QuickRigCharacter_Ctrl_RightLeg
+    101212: QuickRigCharacter_Ctrl_RightShoulder
+    101214: QuickRigCharacter_Ctrl_RightShoulderEffector
+    101216: QuickRigCharacter_Ctrl_RightToeBase
+    101218: QuickRigCharacter_Ctrl_RightUpLeg
+    101220: QuickRigCharacter_Ctrl_RightWristEffector
+    101222: QuickRigCharacter_Ctrl_Spine
+    101224: QuickRigCharacter_Ctrl_Spine1
+    101226: QuickRigCharacter_Ctrl_Spine2
+    101228: QuickRigCharacter_Guides
+    101230: QuickRigCharacter_Head
+    101232: QuickRigCharacter_Hips
+    101234: QuickRigCharacter_LeftArm
+    101236: QuickRigCharacter_LeftFoot
+    101238: QuickRigCharacter_LeftForeArm
+    101240: QuickRigCharacter_LeftHand
+    101242: QuickRigCharacter_LeftLeg
+    101244: QuickRigCharacter_LeftShoulder
+    101246: QuickRigCharacter_LeftToeBase
+    101248: QuickRigCharacter_LeftUpLeg
+    101250: QuickRigCharacter_Neck
+    101252: QuickRigCharacter_Reference
+    101254: QuickRigCharacter_RightArm
+    101256: QuickRigCharacter_RightFoot
+    101258: QuickRigCharacter_RightForeArm
+    101260: QuickRigCharacter_RightHand
+    101262: QuickRigCharacter_RightLeg
+    101264: QuickRigCharacter_RightShoulder
+    101266: QuickRigCharacter_RightToeBase
+    101268: QuickRigCharacter_RightUpLeg
+    101270: QuickRigCharacter_Spine
+    101272: QuickRigCharacter_Spine1
+    101274: QuickRigCharacter_Spine2
+    101276: Reference
+    101278: RightArm
+    101280: RightFoot
+    101282: RightForeArm
+    101284: RightHand
+    101286: RightLeg
+    101288: RightShoulder
+    101290: RightToeBase
+    101292: RightUpLeg
+    101294: Spine
+    101296: Spine1
+    101298: Spine2
+    101300: SpinGlobe
+    101302: SpinGlobeInnerRings
+    101304: SpinGlobeOuterRings
+    101306: SpinnyGlobeRings
+    101308: StartingGallery1
+    101310: transform1
+    101312: transform2
+    101314: BayWindow1
+    101316: Birb1
+    101318: Birb2
+    101320: Birb3
+    101322: Birb4
+    101324: Birb5
+    101326: Birb6
+    101328: BirdBath1
+    101330: BirdBath2
+    101332: BirdBath3
+    101334: BirdBath4
+    101336: BirdBath5
+    101338: BirdBath6
+    101340: BirdBath7
+    101342: BirdBath_Base
+    101344: BirdBath_Base 1
+    101346: BirdBath_Base 2
+    101348: BirdBath_Base 3
+    101350: BirdBath_Base 4
+    101352: BirdBath_Base 5
+    101354: BirdBath_Base 6
+    101356: BirdBath_Column
+    101358: BirdBath_Column 1
+    101360: BirdBath_Column 2
+    101362: BirdBath_Column 3
+    101364: BirdBath_Column 4
+    101366: BirdBath_Column 5
+    101368: BirdBath_Column 6
+    101370: BirdBath_Water
+    101372: BirdBath_Water 1
+    101374: BirdBath_Water 2
+    101376: BirdBath_Water 3
+    101378: BirdBath_Water 4
+    101380: BirdBath_Water 5
+    101382: BirdBath_Water 6
+    101384: BirdBathTop
+    101386: BirdBathTop 1
+    101388: BirdBathTop 2
+    101390: BirdBathTop 3
+    101392: BirdBathTop 4
+    101394: BirdBathTop 5
+    101396: BirdBathTop 6
+    101398: BrutalistArchInner2
+    101400: Ceiling10
+    101402: Ceiling6
+    101404: Ceiling7
+    101406: Ceiling8
+    101408: Ceiling9
+    101410: ChromeRaiseSphere
+    101412: Color_Room_Door
+    101414: ColorfulPedestals
+    101416: ColorPhone
+    101418: ColumnTop1 1
+    101420: ColumnTop1 2
+    101422: ColumnTop2 1
+    101424: ColumnTop2 2
+    101426: CorinthColumn1 1
+    101428: CorinthColumn1 2
+    101430: CorinthColumn2 1
+    101432: CorinthColumn2 2
+    101434: Corridor1
+    101436: CorridorEntrance
+    101438: CorridorEntrance1
+    101440: CorridorEntrance2
+    101442: Floor1
+    101444: Floor10
+    101446: Floor11
+    101448: Floor12
+    101450: Floor13
+    101452: Floor2
+    101454: Floor3
+    101456: Floor4
+    101458: Floor5
+    101460: Floor6
+    101462: Floor7
+    101464: Floor8
+    101466: Floor9
+    101468: Grapes
+    101470: LeafGroup 4
+    101472: LeafGroup 5
+    101474: LeafGroup1 4
+    101476: LeafGroup1 5
+    101478: LeafGroup10 4
+    101480: LeafGroup10 5
+    101482: LeafGroup11 4
+    101484: LeafGroup11 5
+    101486: LeafGroup12 4
+    101488: LeafGroup12 5
+    101490: LeafGroup13 4
+    101492: LeafGroup13 5
+    101494: LeafGroup14 4
+    101496: LeafGroup14 5
+    101498: LeafGroup2 4
+    101500: LeafGroup2 5
+    101502: LeafGroup3 4
+    101504: LeafGroup3 5
+    101506: LeafGroup4 4
+    101508: LeafGroup4 5
+    101510: LeafGroup5 4
+    101512: LeafGroup5 5
+    101514: LeafGroup6 4
+    101516: LeafGroup6 5
+    101518: LeafGroup7 4
+    101520: LeafGroup7 5
+    101522: LeafGroup8 4
+    101524: LeafGroup8 5
+    101526: LeafGroup9 4
+    101528: LeafGroup9 5
+    101530: Leaves1 4
+    101532: Leaves1 5
+    101534: Lever1
+    101536: LeverConsole1
+    101538: LeverHolder1
+    101540: PaintingFrame10
+    101542: PaintingFrame11
+    101544: PaintingFrame12
+    101546: PaintingFrame13
+    101548: PaintingFrame7
+    101550: pCube1
+    101552: pCube124
+    101554: pCube2
+    101556: Pedestal10
+    101558: Pedestal11
+    101560: Pedestal12
+    101562: Pedestal13
+    101564: Pedestal14
+    101566: Pedestal15
+    101568: Pedestal16
+    101570: Pedestal17
+    101572: Pedestal18
+    101574: Pedestal19
+    101576: Pedestal20
+    101578: Pedestal21
+    101580: pPlane10 4
+    101582: pPlane10 5
+    101584: pPlane11 48
+    101586: pPlane11 49
+    101588: pPlane11 50
+    101590: pPlane11 51
+    101592: pPlane11 52
+    101594: pPlane11 53
+    101596: pPlane11 54
+    101598: pPlane11 55
+    101600: pPlane11 56
+    101602: pPlane11 57
+    101604: pPlane11 58
+    101606: pPlane11 59
+    101608: pPlane11 60
+    101610: pPlane11 61
+    101612: pPlane11 62
+    101614: pPlane11 63
+    101616: pPlane11 64
+    101618: pPlane11 65
+    101620: pPlane11 66
+    101622: pPlane11 67
+    101624: pPlane11 68
+    101626: pPlane11 69
+    101628: pPlane11 70
+    101630: pPlane11 71
+    101632: pPlane12 48
+    101634: pPlane12 49
+    101636: pPlane12 50
+    101638: pPlane12 51
+    101640: pPlane12 52
+    101642: pPlane12 53
+    101644: pPlane12 54
+    101646: pPlane12 55
+    101648: pPlane12 56
+    101650: pPlane12 57
+    101652: pPlane12 58
+    101654: pPlane12 59
+    101656: pPlane12 60
+    101658: pPlane12 61
+    101660: pPlane12 62
+    101662: pPlane12 63
+    101664: pPlane12 64
+    101666: pPlane12 65
+    101668: pPlane12 66
+    101670: pPlane12 67
+    101672: pPlane12 68
+    101674: pPlane12 69
+    101676: pPlane12 70
+    101678: pPlane12 71
+    101680: pPlane13 48
+    101682: pPlane13 49
+    101684: pPlane13 50
+    101686: pPlane13 51
+    101688: pPlane13 52
+    101690: pPlane13 53
+    101692: pPlane13 54
+    101694: pPlane13 55
+    101696: pPlane13 56
+    101698: pPlane13 57
+    101700: pPlane13 58
+    101702: pPlane13 59
+    101704: pPlane13 60
+    101706: pPlane13 61
+    101708: pPlane13 62
+    101710: pPlane13 63
+    101712: pPlane13 64
+    101714: pPlane13 65
+    101716: pPlane13 66
+    101718: pPlane13 67
+    101720: pPlane13 68
+    101722: pPlane13 69
+    101724: pPlane13 70
+    101726: pPlane13 71
+    101728: pPlane14 48
+    101730: pPlane14 49
+    101732: pPlane14 50
+    101734: pPlane14 51
+    101736: pPlane14 52
+    101738: pPlane14 53
+    101740: pPlane14 54
+    101742: pPlane14 55
+    101744: pPlane14 56
+    101746: pPlane14 57
+    101748: pPlane14 58
+    101750: pPlane14 59
+    101752: pPlane14 60
+    101754: pPlane14 61
+    101756: pPlane14 62
+    101758: pPlane14 63
+    101760: pPlane14 64
+    101762: pPlane14 65
+    101764: pPlane14 66
+    101766: pPlane14 67
+    101768: pPlane14 68
+    101770: pPlane14 69
+    101772: pPlane14 70
+    101774: pPlane14 71
+    101776: pPlane15 48
+    101778: pPlane15 49
+    101780: pPlane15 50
+    101782: pPlane15 51
+    101784: pPlane15 52
+    101786: pPlane15 53
+    101788: pPlane15 54
+    101790: pPlane15 55
+    101792: pPlane15 56
+    101794: pPlane15 57
+    101796: pPlane15 58
+    101798: pPlane15 59
+    101800: pPlane15 60
+    101802: pPlane15 61
+    101804: pPlane15 62
+    101806: pPlane15 63
+    101808: pPlane15 64
+    101810: pPlane15 65
+    101812: pPlane15 66
+    101814: pPlane15 67
+    101816: pPlane15 68
+    101818: pPlane15 69
+    101820: pPlane15 70
+    101822: pPlane15 71
+    101824: pPlane16 48
+    101826: pPlane16 49
+    101828: pPlane16 50
+    101830: pPlane16 51
+    101832: pPlane16 52
+    101834: pPlane16 53
+    101836: pPlane16 54
+    101838: pPlane16 55
+    101840: pPlane16 56
+    101842: pPlane16 57
+    101844: pPlane16 58
+    101846: pPlane16 59
+    101848: pPlane16 60
+    101850: pPlane16 61
+    101852: pPlane16 62
+    101854: pPlane16 63
+    101856: pPlane16 64
+    101858: pPlane16 65
+    101860: pPlane16 66
+    101862: pPlane16 67
+    101864: pPlane16 68
+    101866: pPlane16 69
+    101868: pPlane16 70
+    101870: pPlane16 71
+    101872: pPlane17 10
+    101874: pPlane17 11
+    101876: pPlane17 8
+    101878: pPlane17 9
+    101880: pPlane18 10
+    101882: pPlane18 11
+    101884: pPlane18 8
+    101886: pPlane18 9
+    101888: pPlane19 10
+    101890: pPlane19 11
+    101892: pPlane19 8
+    101894: pPlane19 9
+    101896: pPlane20 10
+    101898: pPlane20 11
+    101900: pPlane20 8
+    101902: pPlane20 9
+    101904: pPlane21 10
+    101906: pPlane21 11
+    101908: pPlane21 8
+    101910: pPlane21 9
+    101912: pPlane22 10
+    101914: pPlane22 11
+    101916: pPlane22 8
+    101918: pPlane22 9
+    101920: pPlane23 10
+    101922: pPlane23 11
+    101924: pPlane23 8
+    101926: pPlane23 9
+    101928: pPlane24 10
+    101930: pPlane24 11
+    101932: pPlane24 8
+    101934: pPlane24 9
+    101936: pPlane3 4
+    101938: pPlane3 5
+    101940: pPlane4 4
+    101942: pPlane4 5
+    101944: pPlane5 4
+    101946: pPlane5 5
+    101948: pPlane6 4
+    101950: pPlane6 5
+    101952: pPlane7 4
+    101954: pPlane7 5
+    101956: pPlane8 4
+    101958: pPlane8 5
+    101960: pPlane9 4
+    101962: pPlane9 5
+    101964: PressurePlate1
+    101966: RedRoom
+    101968: RedRoom1
+    101970: RedRoomCorridor
+    101972: Ring1
+    101974: Ring2
+    101976: Ring3
+    101978: SpikeyCubeObject8
+    101980: SpikeyCubeObject9
+    101982: StartingRoom
+    101984: StartingRoom1
+    101986: StartingRoom2
+    101988: StartingRoom3
+    101990: Statue
+    101992: Statue 1
+    101994: Statue 2
+    101996: Statue 3
+    101998: StatueArms
+    102000: StatueArms 1
+    102002: StatueArms 2
+    102004: StatueArms 3
+    102006: StatueGuy1
+    102008: StatueGuy2
+    102010: StatueGuy3
+    102012: StatueGuy4
+    102014: TestObjects1:pCube1
+    102016: TestObjects1:pCube2
+    102018: TestObjects1:pPlatonic1
+    102020: TestObjects1:pPlatonic2
+    102022: TestObjects1:pPlatonic3
+    102024: TestObjects1:pTorus1
+    102026: TheFloor
+    102028: transform10
+    102030: transform11
+    102032: transform12
+    102034: transform13
+    102036: transform14
+    102038: transform3
+    102040: transform4
+    102042: transform5
+    102044: transform6
+    102046: transform7
+    102048: transform8
+    102050: transform9
+    102052: Tree5
+    102054: Tree6
+    102056: TreeTrunk1 4
+    102058: TreeTrunk1 5
+    102060: VolumeSlider1
+    102062: WallTrim1 1
+    102064: WallTrim1 2
+    102066: WallTrim2
+    102068: whale
+    102070: WhiteRoomCorridor
+    102072: WhiteRoomCorridor1
+    102074: WhiteRoomCorridor2
+    102076: WhiteRoomCorridor3
     400000: aiSkyDomeLight1
     400002: Area1
     400004: Brutalist_Door_2
@@ -1019,12 +1550,571 @@ ModelImporter:
     401010: TreeTrunk1 2
     401012: TreeTrunk1 3
     401014: Tube_Object_1
+    401016: annotation1
+    401018: annotationLocator1
+    401020: Ceiling1
+    401022: Ceiling2
+    401024: ChandelierGlobe
+    401026: ChandelierInnerRings
+    401028: ChandelierOuterRings
+    401030: Column1
+    401032: Column2
+    401034: ColumnTop1
+    401036: ColumnTop2
+    401038: CorinthColumn1
+    401040: CorinthColumn2
+    401042: PaintingFrame
+    401044: PaintingFrame1
+    401046: PaintingFrame2
+    401048: PaintingFrame3
+    401050: PaintingFrame4
+    401052: PaintingFrame5
+    401054: pTorus2
+    401056: pTorus3
+    401058: pTorus4
+    401060: pTorus5
+    401062: robot
+    401064: StartingGallery
+    401066: WallTrim1
+    401068: BayWindow
+    401070: Ceiling3
+    401072: Ceiling4
+    401074: ChandelierBigRing
+    401076: ChandelierCrystals
+    401078: ChandelierMidRing
+    401080: ChandelierSmallRing
+    401082: Head
+    401084: Hips
+    401086: LeftArm
+    401088: LeftFoot
+    401090: LeftForeArm
+    401092: LeftHand
+    401094: LeftLeg
+    401096: LeftShoulder
+    401098: LeftToeBase
+    401100: LeftUpLeg
+    401102: Neck
+    401104: pCube100
+    401106: pCube102
+    401108: pCube104
+    401110: pCube106
+    401112: pCube108
+    401114: pCube109
+    401116: pCube110
+    401118: pCube111
+    401120: pCube112
+    401122: pCube113
+    401124: pCube114
+    401126: pCube115
+    401128: pCube116
+    401130: pCube117
+    401132: pCube118
+    401134: pCube119
+    401136: pCube120
+    401138: pCube121
+    401140: pCube122
+    401142: pCube123
+    401144: pCylinder8
+    401146: QuickRigCharacter_Ctrl_ChestEndEffector
+    401148: QuickRigCharacter_Ctrl_ChestOriginEffector
+    401150: QuickRigCharacter_Ctrl_Head
+    401152: QuickRigCharacter_Ctrl_HeadEffector
+    401154: QuickRigCharacter_Ctrl_Hips
+    401156: QuickRigCharacter_Ctrl_HipsEffector
+    401158: QuickRigCharacter_Ctrl_LeftAnkleEffector
+    401160: QuickRigCharacter_Ctrl_LeftArm
+    401162: QuickRigCharacter_Ctrl_LeftElbowEffector
+    401164: QuickRigCharacter_Ctrl_LeftFoot
+    401166: QuickRigCharacter_Ctrl_LeftFootEffector
+    401168: QuickRigCharacter_Ctrl_LeftForeArm
+    401170: QuickRigCharacter_Ctrl_LeftHand
+    401172: QuickRigCharacter_Ctrl_LeftHipEffector
+    401174: QuickRigCharacter_Ctrl_LeftKneeEffector
+    401176: QuickRigCharacter_Ctrl_LeftLeg
+    401178: QuickRigCharacter_Ctrl_LeftShoulder
+    401180: QuickRigCharacter_Ctrl_LeftShoulderEffector
+    401182: QuickRigCharacter_Ctrl_LeftToeBase
+    401184: QuickRigCharacter_Ctrl_LeftUpLeg
+    401186: QuickRigCharacter_Ctrl_LeftWristEffector
+    401188: QuickRigCharacter_Ctrl_Neck
+    401190: QuickRigCharacter_Ctrl_Reference
+    401192: QuickRigCharacter_Ctrl_RightAnkleEffector
+    401194: QuickRigCharacter_Ctrl_RightArm
+    401196: QuickRigCharacter_Ctrl_RightElbowEffector
+    401198: QuickRigCharacter_Ctrl_RightFoot
+    401200: QuickRigCharacter_Ctrl_RightFootEffector
+    401202: QuickRigCharacter_Ctrl_RightForeArm
+    401204: QuickRigCharacter_Ctrl_RightHand
+    401206: QuickRigCharacter_Ctrl_RightHipEffector
+    401208: QuickRigCharacter_Ctrl_RightKneeEffector
+    401210: QuickRigCharacter_Ctrl_RightLeg
+    401212: QuickRigCharacter_Ctrl_RightShoulder
+    401214: QuickRigCharacter_Ctrl_RightShoulderEffector
+    401216: QuickRigCharacter_Ctrl_RightToeBase
+    401218: QuickRigCharacter_Ctrl_RightUpLeg
+    401220: QuickRigCharacter_Ctrl_RightWristEffector
+    401222: QuickRigCharacter_Ctrl_Spine
+    401224: QuickRigCharacter_Ctrl_Spine1
+    401226: QuickRigCharacter_Ctrl_Spine2
+    401228: QuickRigCharacter_Guides
+    401230: QuickRigCharacter_Head
+    401232: QuickRigCharacter_Hips
+    401234: QuickRigCharacter_LeftArm
+    401236: QuickRigCharacter_LeftFoot
+    401238: QuickRigCharacter_LeftForeArm
+    401240: QuickRigCharacter_LeftHand
+    401242: QuickRigCharacter_LeftLeg
+    401244: QuickRigCharacter_LeftShoulder
+    401246: QuickRigCharacter_LeftToeBase
+    401248: QuickRigCharacter_LeftUpLeg
+    401250: QuickRigCharacter_Neck
+    401252: QuickRigCharacter_Reference
+    401254: QuickRigCharacter_RightArm
+    401256: QuickRigCharacter_RightFoot
+    401258: QuickRigCharacter_RightForeArm
+    401260: QuickRigCharacter_RightHand
+    401262: QuickRigCharacter_RightLeg
+    401264: QuickRigCharacter_RightShoulder
+    401266: QuickRigCharacter_RightToeBase
+    401268: QuickRigCharacter_RightUpLeg
+    401270: QuickRigCharacter_Spine
+    401272: QuickRigCharacter_Spine1
+    401274: QuickRigCharacter_Spine2
+    401276: Reference
+    401278: RightArm
+    401280: RightFoot
+    401282: RightForeArm
+    401284: RightHand
+    401286: RightLeg
+    401288: RightShoulder
+    401290: RightToeBase
+    401292: RightUpLeg
+    401294: Spine
+    401296: Spine1
+    401298: Spine2
+    401300: SpinGlobe
+    401302: SpinGlobeInnerRings
+    401304: SpinGlobeOuterRings
+    401306: SpinnyGlobeRings
+    401308: StartingGallery1
+    401310: transform1
+    401312: transform2
+    401314: BayWindow1
+    401316: Birb1
+    401318: Birb2
+    401320: Birb3
+    401322: Birb4
+    401324: Birb5
+    401326: Birb6
+    401328: BirdBath1
+    401330: BirdBath2
+    401332: BirdBath3
+    401334: BirdBath4
+    401336: BirdBath5
+    401338: BirdBath6
+    401340: BirdBath7
+    401342: BirdBath_Base
+    401344: BirdBath_Base 1
+    401346: BirdBath_Base 2
+    401348: BirdBath_Base 3
+    401350: BirdBath_Base 4
+    401352: BirdBath_Base 5
+    401354: BirdBath_Base 6
+    401356: BirdBath_Column
+    401358: BirdBath_Column 1
+    401360: BirdBath_Column 2
+    401362: BirdBath_Column 3
+    401364: BirdBath_Column 4
+    401366: BirdBath_Column 5
+    401368: BirdBath_Column 6
+    401370: BirdBath_Water
+    401372: BirdBath_Water 1
+    401374: BirdBath_Water 2
+    401376: BirdBath_Water 3
+    401378: BirdBath_Water 4
+    401380: BirdBath_Water 5
+    401382: BirdBath_Water 6
+    401384: BirdBathTop
+    401386: BirdBathTop 1
+    401388: BirdBathTop 2
+    401390: BirdBathTop 3
+    401392: BirdBathTop 4
+    401394: BirdBathTop 5
+    401396: BirdBathTop 6
+    401398: BrutalistArchInner2
+    401400: Ceiling10
+    401402: Ceiling6
+    401404: Ceiling7
+    401406: Ceiling8
+    401408: Ceiling9
+    401410: ChromeRaiseSphere
+    401412: Color_Room_Door
+    401414: ColorfulPedestals
+    401416: ColorPhone
+    401418: ColumnTop1 1
+    401420: ColumnTop1 2
+    401422: ColumnTop2 1
+    401424: ColumnTop2 2
+    401426: CorinthColumn1 1
+    401428: CorinthColumn1 2
+    401430: CorinthColumn2 1
+    401432: CorinthColumn2 2
+    401434: Corridor1
+    401436: CorridorEntrance
+    401438: CorridorEntrance1
+    401440: CorridorEntrance2
+    401442: Floor1
+    401444: Floor10
+    401446: Floor11
+    401448: Floor12
+    401450: Floor13
+    401452: Floor2
+    401454: Floor3
+    401456: Floor4
+    401458: Floor5
+    401460: Floor6
+    401462: Floor7
+    401464: Floor8
+    401466: Floor9
+    401468: Grapes
+    401470: LeafGroup 4
+    401472: LeafGroup 5
+    401474: LeafGroup1 4
+    401476: LeafGroup1 5
+    401478: LeafGroup10 4
+    401480: LeafGroup10 5
+    401482: LeafGroup11 4
+    401484: LeafGroup11 5
+    401486: LeafGroup12 4
+    401488: LeafGroup12 5
+    401490: LeafGroup13 4
+    401492: LeafGroup13 5
+    401494: LeafGroup14 4
+    401496: LeafGroup14 5
+    401498: LeafGroup2 4
+    401500: LeafGroup2 5
+    401502: LeafGroup3 4
+    401504: LeafGroup3 5
+    401506: LeafGroup4 4
+    401508: LeafGroup4 5
+    401510: LeafGroup5 4
+    401512: LeafGroup5 5
+    401514: LeafGroup6 4
+    401516: LeafGroup6 5
+    401518: LeafGroup7 4
+    401520: LeafGroup7 5
+    401522: LeafGroup8 4
+    401524: LeafGroup8 5
+    401526: LeafGroup9 4
+    401528: LeafGroup9 5
+    401530: Leaves1 4
+    401532: Leaves1 5
+    401534: Lever1
+    401536: LeverConsole1
+    401538: LeverHolder1
+    401540: PaintingFrame10
+    401542: PaintingFrame11
+    401544: PaintingFrame12
+    401546: PaintingFrame13
+    401548: PaintingFrame7
+    401550: pCube1
+    401552: pCube124
+    401554: pCube2
+    401556: Pedestal10
+    401558: Pedestal11
+    401560: Pedestal12
+    401562: Pedestal13
+    401564: Pedestal14
+    401566: Pedestal15
+    401568: Pedestal16
+    401570: Pedestal17
+    401572: Pedestal18
+    401574: Pedestal19
+    401576: Pedestal20
+    401578: Pedestal21
+    401580: pPlane10 4
+    401582: pPlane10 5
+    401584: pPlane11 48
+    401586: pPlane11 49
+    401588: pPlane11 50
+    401590: pPlane11 51
+    401592: pPlane11 52
+    401594: pPlane11 53
+    401596: pPlane11 54
+    401598: pPlane11 55
+    401600: pPlane11 56
+    401602: pPlane11 57
+    401604: pPlane11 58
+    401606: pPlane11 59
+    401608: pPlane11 60
+    401610: pPlane11 61
+    401612: pPlane11 62
+    401614: pPlane11 63
+    401616: pPlane11 64
+    401618: pPlane11 65
+    401620: pPlane11 66
+    401622: pPlane11 67
+    401624: pPlane11 68
+    401626: pPlane11 69
+    401628: pPlane11 70
+    401630: pPlane11 71
+    401632: pPlane12 48
+    401634: pPlane12 49
+    401636: pPlane12 50
+    401638: pPlane12 51
+    401640: pPlane12 52
+    401642: pPlane12 53
+    401644: pPlane12 54
+    401646: pPlane12 55
+    401648: pPlane12 56
+    401650: pPlane12 57
+    401652: pPlane12 58
+    401654: pPlane12 59
+    401656: pPlane12 60
+    401658: pPlane12 61
+    401660: pPlane12 62
+    401662: pPlane12 63
+    401664: pPlane12 64
+    401666: pPlane12 65
+    401668: pPlane12 66
+    401670: pPlane12 67
+    401672: pPlane12 68
+    401674: pPlane12 69
+    401676: pPlane12 70
+    401678: pPlane12 71
+    401680: pPlane13 48
+    401682: pPlane13 49
+    401684: pPlane13 50
+    401686: pPlane13 51
+    401688: pPlane13 52
+    401690: pPlane13 53
+    401692: pPlane13 54
+    401694: pPlane13 55
+    401696: pPlane13 56
+    401698: pPlane13 57
+    401700: pPlane13 58
+    401702: pPlane13 59
+    401704: pPlane13 60
+    401706: pPlane13 61
+    401708: pPlane13 62
+    401710: pPlane13 63
+    401712: pPlane13 64
+    401714: pPlane13 65
+    401716: pPlane13 66
+    401718: pPlane13 67
+    401720: pPlane13 68
+    401722: pPlane13 69
+    401724: pPlane13 70
+    401726: pPlane13 71
+    401728: pPlane14 48
+    401730: pPlane14 49
+    401732: pPlane14 50
+    401734: pPlane14 51
+    401736: pPlane14 52
+    401738: pPlane14 53
+    401740: pPlane14 54
+    401742: pPlane14 55
+    401744: pPlane14 56
+    401746: pPlane14 57
+    401748: pPlane14 58
+    401750: pPlane14 59
+    401752: pPlane14 60
+    401754: pPlane14 61
+    401756: pPlane14 62
+    401758: pPlane14 63
+    401760: pPlane14 64
+    401762: pPlane14 65
+    401764: pPlane14 66
+    401766: pPlane14 67
+    401768: pPlane14 68
+    401770: pPlane14 69
+    401772: pPlane14 70
+    401774: pPlane14 71
+    401776: pPlane15 48
+    401778: pPlane15 49
+    401780: pPlane15 50
+    401782: pPlane15 51
+    401784: pPlane15 52
+    401786: pPlane15 53
+    401788: pPlane15 54
+    401790: pPlane15 55
+    401792: pPlane15 56
+    401794: pPlane15 57
+    401796: pPlane15 58
+    401798: pPlane15 59
+    401800: pPlane15 60
+    401802: pPlane15 61
+    401804: pPlane15 62
+    401806: pPlane15 63
+    401808: pPlane15 64
+    401810: pPlane15 65
+    401812: pPlane15 66
+    401814: pPlane15 67
+    401816: pPlane15 68
+    401818: pPlane15 69
+    401820: pPlane15 70
+    401822: pPlane15 71
+    401824: pPlane16 48
+    401826: pPlane16 49
+    401828: pPlane16 50
+    401830: pPlane16 51
+    401832: pPlane16 52
+    401834: pPlane16 53
+    401836: pPlane16 54
+    401838: pPlane16 55
+    401840: pPlane16 56
+    401842: pPlane16 57
+    401844: pPlane16 58
+    401846: pPlane16 59
+    401848: pPlane16 60
+    401850: pPlane16 61
+    401852: pPlane16 62
+    401854: pPlane16 63
+    401856: pPlane16 64
+    401858: pPlane16 65
+    401860: pPlane16 66
+    401862: pPlane16 67
+    401864: pPlane16 68
+    401866: pPlane16 69
+    401868: pPlane16 70
+    401870: pPlane16 71
+    401872: pPlane17 10
+    401874: pPlane17 11
+    401876: pPlane17 8
+    401878: pPlane17 9
+    401880: pPlane18 10
+    401882: pPlane18 11
+    401884: pPlane18 8
+    401886: pPlane18 9
+    401888: pPlane19 10
+    401890: pPlane19 11
+    401892: pPlane19 8
+    401894: pPlane19 9
+    401896: pPlane20 10
+    401898: pPlane20 11
+    401900: pPlane20 8
+    401902: pPlane20 9
+    401904: pPlane21 10
+    401906: pPlane21 11
+    401908: pPlane21 8
+    401910: pPlane21 9
+    401912: pPlane22 10
+    401914: pPlane22 11
+    401916: pPlane22 8
+    401918: pPlane22 9
+    401920: pPlane23 10
+    401922: pPlane23 11
+    401924: pPlane23 8
+    401926: pPlane23 9
+    401928: pPlane24 10
+    401930: pPlane24 11
+    401932: pPlane24 8
+    401934: pPlane24 9
+    401936: pPlane3 4
+    401938: pPlane3 5
+    401940: pPlane4 4
+    401942: pPlane4 5
+    401944: pPlane5 4
+    401946: pPlane5 5
+    401948: pPlane6 4
+    401950: pPlane6 5
+    401952: pPlane7 4
+    401954: pPlane7 5
+    401956: pPlane8 4
+    401958: pPlane8 5
+    401960: pPlane9 4
+    401962: pPlane9 5
+    401964: PressurePlate1
+    401966: RedRoom
+    401968: RedRoom1
+    401970: RedRoomCorridor
+    401972: Ring1
+    401974: Ring2
+    401976: Ring3
+    401978: SpikeyCubeObject8
+    401980: SpikeyCubeObject9
+    401982: StartingRoom
+    401984: StartingRoom1
+    401986: StartingRoom2
+    401988: StartingRoom3
+    401990: Statue
+    401992: Statue 1
+    401994: Statue 2
+    401996: Statue 3
+    401998: StatueArms
+    402000: StatueArms 1
+    402002: StatueArms 2
+    402004: StatueArms 3
+    402006: StatueGuy1
+    402008: StatueGuy2
+    402010: StatueGuy3
+    402012: StatueGuy4
+    402014: TestObjects1:pCube1
+    402016: TestObjects1:pCube2
+    402018: TestObjects1:pPlatonic1
+    402020: TestObjects1:pPlatonic2
+    402022: TestObjects1:pPlatonic3
+    402024: TestObjects1:pTorus1
+    402026: TheFloor
+    402028: transform10
+    402030: transform11
+    402032: transform12
+    402034: transform13
+    402036: transform14
+    402038: transform3
+    402040: transform4
+    402042: transform5
+    402044: transform6
+    402046: transform7
+    402048: transform8
+    402050: transform9
+    402052: Tree5
+    402054: Tree6
+    402056: TreeTrunk1 4
+    402058: TreeTrunk1 5
+    402060: VolumeSlider1
+    402062: WallTrim1 1
+    402064: WallTrim1 2
+    402066: WallTrim2
+    402068: whale
+    402070: WhiteRoomCorridor
+    402072: WhiteRoomCorridor1
+    402074: WhiteRoomCorridor2
+    402076: WhiteRoomCorridor3
     2100000: lambert1
     2100002: phongE1
     2100004: GlassWindowPanes
     2100006: Painting_Doge
     2100008: Painting_Frame
     2100010: White_Wall
+    2100012: GalaxySpheres
+    2100014: MidnightTree
+    2100016: SunriseTree
+    2100018: TwilightTree
+    2100020: MintyTree
+    2100022: blinn1
+    2100024: GlassPane
+    2100026: GoldenOrange
+    2100028: SpaceGlobe
+    2100030: WoodFloor
+    2100032: ColorfulGreeb
+    2100034: ColorfulCyan
+    2100036: ColorfulMagenta
+    2100038: ColorfulRed
+    2100040: ColorfulBloo
+    2100042: ColorfulOrange
+    2100044: ColorfulYellow
+    2100046: WhaleColor
+    2100048: BLECK1
+    2100050: ChandelierColor1
+    2100052: Water
+    2100054: ChromeSphererings
+    2100056: BLECK4
+    2100058: BLECK3
+    2100060: BLECK2
+    2100062: ColorDonut
+    2100064: Grapes1
+    2100066: StoneGardenWall
     2300000: BrutalistArchInner1
     2300002: BrutalistArchOuter1
     2300004: Cylinder
@@ -1458,6 +2548,363 @@ ModelImporter:
     2300860: TreeTrunk1 1
     2300862: TreeTrunk1 2
     2300864: TreeTrunk1 3
+    2300866: Ceiling1
+    2300868: Ceiling2
+    2300870: ChandelierGlobe
+    2300872: ColumnTop1
+    2300874: ColumnTop2
+    2300876: CorinthColumn1
+    2300878: CorinthColumn2
+    2300880: PaintingFrame
+    2300882: PaintingFrame1
+    2300884: PaintingFrame2
+    2300886: PaintingFrame3
+    2300888: PaintingFrame4
+    2300890: PaintingFrame5
+    2300892: pTorus2
+    2300894: pTorus3
+    2300896: pTorus4
+    2300898: pTorus5
+    2300900: robot
+    2300902: StartingGallery
+    2300904: WallTrim1
+    2300906: BayWindow
+    2300908: Ceiling4
+    2300910: ChandelierBigRing
+    2300912: ChandelierMidRing
+    2300914: ChandelierSmallRing
+    2300916: pCube100
+    2300918: pCube102
+    2300920: pCube104
+    2300922: pCube106
+    2300924: pCube108
+    2300926: pCube109
+    2300928: pCube110
+    2300930: pCube111
+    2300932: pCube112
+    2300934: pCube113
+    2300936: pCube114
+    2300938: pCube115
+    2300940: pCube116
+    2300942: pCube117
+    2300944: pCube118
+    2300946: pCube119
+    2300948: pCube120
+    2300950: pCube121
+    2300952: pCube122
+    2300954: pCube123
+    2300956: pCylinder8
+    2300958: SpinGlobe
+    2300960: StartingGallery1
+    2300962: BayWindow1
+    2300964: Birb1
+    2300966: Birb2
+    2300968: Birb3
+    2300970: Birb4
+    2300972: Birb5
+    2300974: Birb6
+    2300976: BirdBath_Base
+    2300978: BirdBath_Base 1
+    2300980: BirdBath_Base 2
+    2300982: BirdBath_Base 3
+    2300984: BirdBath_Base 4
+    2300986: BirdBath_Base 5
+    2300988: BirdBath_Base 6
+    2300990: BirdBath_Column
+    2300992: BirdBath_Column 1
+    2300994: BirdBath_Column 2
+    2300996: BirdBath_Column 3
+    2300998: BirdBath_Column 4
+    2301000: BirdBath_Column 5
+    2301002: BirdBath_Column 6
+    2301004: BirdBath_Water
+    2301006: BirdBath_Water 1
+    2301008: BirdBath_Water 2
+    2301010: BirdBath_Water 3
+    2301012: BirdBath_Water 4
+    2301014: BirdBath_Water 5
+    2301016: BirdBath_Water 6
+    2301018: BirdBathTop
+    2301020: BirdBathTop 1
+    2301022: BirdBathTop 2
+    2301024: BirdBathTop 3
+    2301026: BirdBathTop 4
+    2301028: BirdBathTop 5
+    2301030: BirdBathTop 6
+    2301032: BrutalistArchInner2
+    2301034: Ceiling6
+    2301036: Ceiling7
+    2301038: Ceiling8
+    2301040: ChromeRaiseSphere
+    2301042: ColorPhone
+    2301044: ColumnTop1 1
+    2301046: ColumnTop1 2
+    2301048: ColumnTop2 1
+    2301050: ColumnTop2 2
+    2301052: CorinthColumn1 1
+    2301054: CorinthColumn1 2
+    2301056: CorinthColumn2 1
+    2301058: CorinthColumn2 2
+    2301060: Corridor1
+    2301062: Floor1
+    2301064: Floor10
+    2301066: Floor11
+    2301068: Floor12
+    2301070: Floor13
+    2301072: Floor2
+    2301074: Floor3
+    2301076: Floor4
+    2301078: Floor5
+    2301080: Floor6
+    2301082: Floor7
+    2301084: Floor8
+    2301086: Floor9
+    2301088: Grapes
+    2301090: Lever1
+    2301092: LeverConsole1
+    2301094: LeverHolder1
+    2301096: PaintingFrame10
+    2301098: PaintingFrame11
+    2301100: PaintingFrame12
+    2301102: PaintingFrame13
+    2301104: PaintingFrame7
+    2301106: pCube1
+    2301108: pCube124
+    2301110: pCube2
+    2301112: Pedestal10
+    2301114: Pedestal11
+    2301116: Pedestal12
+    2301118: Pedestal13
+    2301120: Pedestal14
+    2301122: Pedestal15
+    2301124: Pedestal16
+    2301126: Pedestal17
+    2301128: Pedestal20
+    2301130: Pedestal21
+    2301132: pPlane10 4
+    2301134: pPlane10 5
+    2301136: pPlane11 48
+    2301138: pPlane11 49
+    2301140: pPlane11 50
+    2301142: pPlane11 51
+    2301144: pPlane11 52
+    2301146: pPlane11 53
+    2301148: pPlane11 54
+    2301150: pPlane11 55
+    2301152: pPlane11 56
+    2301154: pPlane11 57
+    2301156: pPlane11 58
+    2301158: pPlane11 59
+    2301160: pPlane11 60
+    2301162: pPlane11 61
+    2301164: pPlane11 62
+    2301166: pPlane11 63
+    2301168: pPlane11 64
+    2301170: pPlane11 65
+    2301172: pPlane11 66
+    2301174: pPlane11 67
+    2301176: pPlane11 68
+    2301178: pPlane11 69
+    2301180: pPlane11 70
+    2301182: pPlane11 71
+    2301184: pPlane12 48
+    2301186: pPlane12 49
+    2301188: pPlane12 50
+    2301190: pPlane12 51
+    2301192: pPlane12 52
+    2301194: pPlane12 53
+    2301196: pPlane12 54
+    2301198: pPlane12 55
+    2301200: pPlane12 56
+    2301202: pPlane12 57
+    2301204: pPlane12 58
+    2301206: pPlane12 59
+    2301208: pPlane12 60
+    2301210: pPlane12 61
+    2301212: pPlane12 62
+    2301214: pPlane12 63
+    2301216: pPlane12 64
+    2301218: pPlane12 65
+    2301220: pPlane12 66
+    2301222: pPlane12 67
+    2301224: pPlane12 68
+    2301226: pPlane12 69
+    2301228: pPlane12 70
+    2301230: pPlane12 71
+    2301232: pPlane13 48
+    2301234: pPlane13 49
+    2301236: pPlane13 50
+    2301238: pPlane13 51
+    2301240: pPlane13 52
+    2301242: pPlane13 53
+    2301244: pPlane13 54
+    2301246: pPlane13 55
+    2301248: pPlane13 56
+    2301250: pPlane13 57
+    2301252: pPlane13 58
+    2301254: pPlane13 59
+    2301256: pPlane13 60
+    2301258: pPlane13 61
+    2301260: pPlane13 62
+    2301262: pPlane13 63
+    2301264: pPlane13 64
+    2301266: pPlane13 65
+    2301268: pPlane13 66
+    2301270: pPlane13 67
+    2301272: pPlane13 68
+    2301274: pPlane13 69
+    2301276: pPlane13 70
+    2301278: pPlane13 71
+    2301280: pPlane14 48
+    2301282: pPlane14 49
+    2301284: pPlane14 50
+    2301286: pPlane14 51
+    2301288: pPlane14 52
+    2301290: pPlane14 53
+    2301292: pPlane14 54
+    2301294: pPlane14 55
+    2301296: pPlane14 56
+    2301298: pPlane14 57
+    2301300: pPlane14 58
+    2301302: pPlane14 59
+    2301304: pPlane14 60
+    2301306: pPlane14 61
+    2301308: pPlane14 62
+    2301310: pPlane14 63
+    2301312: pPlane14 64
+    2301314: pPlane14 65
+    2301316: pPlane14 66
+    2301318: pPlane14 67
+    2301320: pPlane14 68
+    2301322: pPlane14 69
+    2301324: pPlane14 70
+    2301326: pPlane14 71
+    2301328: pPlane15 48
+    2301330: pPlane15 49
+    2301332: pPlane15 50
+    2301334: pPlane15 51
+    2301336: pPlane15 52
+    2301338: pPlane15 53
+    2301340: pPlane15 54
+    2301342: pPlane15 55
+    2301344: pPlane15 56
+    2301346: pPlane15 57
+    2301348: pPlane15 58
+    2301350: pPlane15 59
+    2301352: pPlane15 60
+    2301354: pPlane15 61
+    2301356: pPlane15 62
+    2301358: pPlane15 63
+    2301360: pPlane15 64
+    2301362: pPlane15 65
+    2301364: pPlane15 66
+    2301366: pPlane15 67
+    2301368: pPlane15 68
+    2301370: pPlane15 69
+    2301372: pPlane15 70
+    2301374: pPlane15 71
+    2301376: pPlane16 48
+    2301378: pPlane16 49
+    2301380: pPlane16 50
+    2301382: pPlane16 51
+    2301384: pPlane16 52
+    2301386: pPlane16 53
+    2301388: pPlane16 54
+    2301390: pPlane16 55
+    2301392: pPlane16 56
+    2301394: pPlane16 57
+    2301396: pPlane16 58
+    2301398: pPlane16 59
+    2301400: pPlane16 60
+    2301402: pPlane16 61
+    2301404: pPlane16 62
+    2301406: pPlane16 63
+    2301408: pPlane16 64
+    2301410: pPlane16 65
+    2301412: pPlane16 66
+    2301414: pPlane16 67
+    2301416: pPlane16 68
+    2301418: pPlane16 69
+    2301420: pPlane16 70
+    2301422: pPlane16 71
+    2301424: pPlane17 10
+    2301426: pPlane17 11
+    2301428: pPlane17 8
+    2301430: pPlane17 9
+    2301432: pPlane18 10
+    2301434: pPlane18 11
+    2301436: pPlane18 8
+    2301438: pPlane18 9
+    2301440: pPlane19 10
+    2301442: pPlane19 11
+    2301444: pPlane19 8
+    2301446: pPlane19 9
+    2301448: pPlane20 10
+    2301450: pPlane20 11
+    2301452: pPlane20 8
+    2301454: pPlane20 9
+    2301456: pPlane21 10
+    2301458: pPlane21 11
+    2301460: pPlane21 8
+    2301462: pPlane21 9
+    2301464: pPlane22 10
+    2301466: pPlane22 11
+    2301468: pPlane22 8
+    2301470: pPlane22 9
+    2301472: pPlane23 10
+    2301474: pPlane23 11
+    2301476: pPlane23 8
+    2301478: pPlane23 9
+    2301480: pPlane24 10
+    2301482: pPlane24 11
+    2301484: pPlane24 8
+    2301486: pPlane24 9
+    2301488: pPlane3 4
+    2301490: pPlane3 5
+    2301492: pPlane4 4
+    2301494: pPlane4 5
+    2301496: pPlane5 4
+    2301498: pPlane5 5
+    2301500: pPlane6 4
+    2301502: pPlane6 5
+    2301504: pPlane7 4
+    2301506: pPlane7 5
+    2301508: pPlane8 4
+    2301510: pPlane8 5
+    2301512: pPlane9 4
+    2301514: pPlane9 5
+    2301516: PressurePlate1
+    2301518: RedRoom1
+    2301520: RedRoomCorridor
+    2301522: Ring1
+    2301524: Ring2
+    2301526: Ring3
+    2301528: SpikeyCubeObject8
+    2301530: SpikeyCubeObject9
+    2301532: StartingRoom3
+    2301534: Statue
+    2301536: Statue 1
+    2301538: Statue 2
+    2301540: Statue 3
+    2301542: StatueArms
+    2301544: StatueArms 1
+    2301546: StatueArms 2
+    2301548: StatueArms 3
+    2301550: TestObjects1:pPlatonic1
+    2301552: TestObjects1:pPlatonic2
+    2301554: TestObjects1:pPlatonic3
+    2301556: TestObjects1:pTorus1
+    2301558: TreeTrunk1 4
+    2301560: TreeTrunk1 5
+    2301562: VolumeSlider1
+    2301564: WallTrim1 1
+    2301566: WallTrim1 2
+    2301568: WallTrim2
+    2301570: whale
+    2301572: WhiteRoomCorridor
+    2301574: WhiteRoomCorridor1
+    2301576: WhiteRoomCorridor2
+    2301578: WhiteRoomCorridor3
     3300000: BrutalistArchInner1
     3300002: BrutalistArchOuter1
     3300004: Cylinder
@@ -1891,6 +3338,363 @@ ModelImporter:
     3300860: TreeTrunk1 1
     3300862: TreeTrunk1 2
     3300864: TreeTrunk1 3
+    3300866: Ceiling1
+    3300868: Ceiling2
+    3300870: ChandelierGlobe
+    3300872: ColumnTop1
+    3300874: ColumnTop2
+    3300876: CorinthColumn1
+    3300878: CorinthColumn2
+    3300880: PaintingFrame
+    3300882: PaintingFrame1
+    3300884: PaintingFrame2
+    3300886: PaintingFrame3
+    3300888: PaintingFrame4
+    3300890: PaintingFrame5
+    3300892: pTorus2
+    3300894: pTorus3
+    3300896: pTorus4
+    3300898: pTorus5
+    3300900: robot
+    3300902: StartingGallery
+    3300904: WallTrim1
+    3300906: BayWindow
+    3300908: Ceiling4
+    3300910: ChandelierBigRing
+    3300912: ChandelierMidRing
+    3300914: ChandelierSmallRing
+    3300916: pCube100
+    3300918: pCube102
+    3300920: pCube104
+    3300922: pCube106
+    3300924: pCube108
+    3300926: pCube109
+    3300928: pCube110
+    3300930: pCube111
+    3300932: pCube112
+    3300934: pCube113
+    3300936: pCube114
+    3300938: pCube115
+    3300940: pCube116
+    3300942: pCube117
+    3300944: pCube118
+    3300946: pCube119
+    3300948: pCube120
+    3300950: pCube121
+    3300952: pCube122
+    3300954: pCube123
+    3300956: pCylinder8
+    3300958: SpinGlobe
+    3300960: StartingGallery1
+    3300962: BayWindow1
+    3300964: Birb1
+    3300966: Birb2
+    3300968: Birb3
+    3300970: Birb4
+    3300972: Birb5
+    3300974: Birb6
+    3300976: BirdBath_Base
+    3300978: BirdBath_Base 1
+    3300980: BirdBath_Base 2
+    3300982: BirdBath_Base 3
+    3300984: BirdBath_Base 4
+    3300986: BirdBath_Base 5
+    3300988: BirdBath_Base 6
+    3300990: BirdBath_Column
+    3300992: BirdBath_Column 1
+    3300994: BirdBath_Column 2
+    3300996: BirdBath_Column 3
+    3300998: BirdBath_Column 4
+    3301000: BirdBath_Column 5
+    3301002: BirdBath_Column 6
+    3301004: BirdBath_Water
+    3301006: BirdBath_Water 1
+    3301008: BirdBath_Water 2
+    3301010: BirdBath_Water 3
+    3301012: BirdBath_Water 4
+    3301014: BirdBath_Water 5
+    3301016: BirdBath_Water 6
+    3301018: BirdBathTop
+    3301020: BirdBathTop 1
+    3301022: BirdBathTop 2
+    3301024: BirdBathTop 3
+    3301026: BirdBathTop 4
+    3301028: BirdBathTop 5
+    3301030: BirdBathTop 6
+    3301032: BrutalistArchInner2
+    3301034: Ceiling6
+    3301036: Ceiling7
+    3301038: Ceiling8
+    3301040: ChromeRaiseSphere
+    3301042: ColorPhone
+    3301044: ColumnTop1 1
+    3301046: ColumnTop1 2
+    3301048: ColumnTop2 1
+    3301050: ColumnTop2 2
+    3301052: CorinthColumn1 1
+    3301054: CorinthColumn1 2
+    3301056: CorinthColumn2 1
+    3301058: CorinthColumn2 2
+    3301060: Corridor1
+    3301062: Floor1
+    3301064: Floor10
+    3301066: Floor11
+    3301068: Floor12
+    3301070: Floor13
+    3301072: Floor2
+    3301074: Floor3
+    3301076: Floor4
+    3301078: Floor5
+    3301080: Floor6
+    3301082: Floor7
+    3301084: Floor8
+    3301086: Floor9
+    3301088: Grapes
+    3301090: Lever1
+    3301092: LeverConsole1
+    3301094: LeverHolder1
+    3301096: PaintingFrame10
+    3301098: PaintingFrame11
+    3301100: PaintingFrame12
+    3301102: PaintingFrame13
+    3301104: PaintingFrame7
+    3301106: pCube1
+    3301108: pCube124
+    3301110: pCube2
+    3301112: Pedestal10
+    3301114: Pedestal11
+    3301116: Pedestal12
+    3301118: Pedestal13
+    3301120: Pedestal14
+    3301122: Pedestal15
+    3301124: Pedestal16
+    3301126: Pedestal17
+    3301128: Pedestal20
+    3301130: Pedestal21
+    3301132: pPlane10 4
+    3301134: pPlane10 5
+    3301136: pPlane11 48
+    3301138: pPlane11 49
+    3301140: pPlane11 50
+    3301142: pPlane11 51
+    3301144: pPlane11 52
+    3301146: pPlane11 53
+    3301148: pPlane11 54
+    3301150: pPlane11 55
+    3301152: pPlane11 56
+    3301154: pPlane11 57
+    3301156: pPlane11 58
+    3301158: pPlane11 59
+    3301160: pPlane11 60
+    3301162: pPlane11 61
+    3301164: pPlane11 62
+    3301166: pPlane11 63
+    3301168: pPlane11 64
+    3301170: pPlane11 65
+    3301172: pPlane11 66
+    3301174: pPlane11 67
+    3301176: pPlane11 68
+    3301178: pPlane11 69
+    3301180: pPlane11 70
+    3301182: pPlane11 71
+    3301184: pPlane12 48
+    3301186: pPlane12 49
+    3301188: pPlane12 50
+    3301190: pPlane12 51
+    3301192: pPlane12 52
+    3301194: pPlane12 53
+    3301196: pPlane12 54
+    3301198: pPlane12 55
+    3301200: pPlane12 56
+    3301202: pPlane12 57
+    3301204: pPlane12 58
+    3301206: pPlane12 59
+    3301208: pPlane12 60
+    3301210: pPlane12 61
+    3301212: pPlane12 62
+    3301214: pPlane12 63
+    3301216: pPlane12 64
+    3301218: pPlane12 65
+    3301220: pPlane12 66
+    3301222: pPlane12 67
+    3301224: pPlane12 68
+    3301226: pPlane12 69
+    3301228: pPlane12 70
+    3301230: pPlane12 71
+    3301232: pPlane13 48
+    3301234: pPlane13 49
+    3301236: pPlane13 50
+    3301238: pPlane13 51
+    3301240: pPlane13 52
+    3301242: pPlane13 53
+    3301244: pPlane13 54
+    3301246: pPlane13 55
+    3301248: pPlane13 56
+    3301250: pPlane13 57
+    3301252: pPlane13 58
+    3301254: pPlane13 59
+    3301256: pPlane13 60
+    3301258: pPlane13 61
+    3301260: pPlane13 62
+    3301262: pPlane13 63
+    3301264: pPlane13 64
+    3301266: pPlane13 65
+    3301268: pPlane13 66
+    3301270: pPlane13 67
+    3301272: pPlane13 68
+    3301274: pPlane13 69
+    3301276: pPlane13 70
+    3301278: pPlane13 71
+    3301280: pPlane14 48
+    3301282: pPlane14 49
+    3301284: pPlane14 50
+    3301286: pPlane14 51
+    3301288: pPlane14 52
+    3301290: pPlane14 53
+    3301292: pPlane14 54
+    3301294: pPlane14 55
+    3301296: pPlane14 56
+    3301298: pPlane14 57
+    3301300: pPlane14 58
+    3301302: pPlane14 59
+    3301304: pPlane14 60
+    3301306: pPlane14 61
+    3301308: pPlane14 62
+    3301310: pPlane14 63
+    3301312: pPlane14 64
+    3301314: pPlane14 65
+    3301316: pPlane14 66
+    3301318: pPlane14 67
+    3301320: pPlane14 68
+    3301322: pPlane14 69
+    3301324: pPlane14 70
+    3301326: pPlane14 71
+    3301328: pPlane15 48
+    3301330: pPlane15 49
+    3301332: pPlane15 50
+    3301334: pPlane15 51
+    3301336: pPlane15 52
+    3301338: pPlane15 53
+    3301340: pPlane15 54
+    3301342: pPlane15 55
+    3301344: pPlane15 56
+    3301346: pPlane15 57
+    3301348: pPlane15 58
+    3301350: pPlane15 59
+    3301352: pPlane15 60
+    3301354: pPlane15 61
+    3301356: pPlane15 62
+    3301358: pPlane15 63
+    3301360: pPlane15 64
+    3301362: pPlane15 65
+    3301364: pPlane15 66
+    3301366: pPlane15 67
+    3301368: pPlane15 68
+    3301370: pPlane15 69
+    3301372: pPlane15 70
+    3301374: pPlane15 71
+    3301376: pPlane16 48
+    3301378: pPlane16 49
+    3301380: pPlane16 50
+    3301382: pPlane16 51
+    3301384: pPlane16 52
+    3301386: pPlane16 53
+    3301388: pPlane16 54
+    3301390: pPlane16 55
+    3301392: pPlane16 56
+    3301394: pPlane16 57
+    3301396: pPlane16 58
+    3301398: pPlane16 59
+    3301400: pPlane16 60
+    3301402: pPlane16 61
+    3301404: pPlane16 62
+    3301406: pPlane16 63
+    3301408: pPlane16 64
+    3301410: pPlane16 65
+    3301412: pPlane16 66
+    3301414: pPlane16 67
+    3301416: pPlane16 68
+    3301418: pPlane16 69
+    3301420: pPlane16 70
+    3301422: pPlane16 71
+    3301424: pPlane17 10
+    3301426: pPlane17 11
+    3301428: pPlane17 8
+    3301430: pPlane17 9
+    3301432: pPlane18 10
+    3301434: pPlane18 11
+    3301436: pPlane18 8
+    3301438: pPlane18 9
+    3301440: pPlane19 10
+    3301442: pPlane19 11
+    3301444: pPlane19 8
+    3301446: pPlane19 9
+    3301448: pPlane20 10
+    3301450: pPlane20 11
+    3301452: pPlane20 8
+    3301454: pPlane20 9
+    3301456: pPlane21 10
+    3301458: pPlane21 11
+    3301460: pPlane21 8
+    3301462: pPlane21 9
+    3301464: pPlane22 10
+    3301466: pPlane22 11
+    3301468: pPlane22 8
+    3301470: pPlane22 9
+    3301472: pPlane23 10
+    3301474: pPlane23 11
+    3301476: pPlane23 8
+    3301478: pPlane23 9
+    3301480: pPlane24 10
+    3301482: pPlane24 11
+    3301484: pPlane24 8
+    3301486: pPlane24 9
+    3301488: pPlane3 4
+    3301490: pPlane3 5
+    3301492: pPlane4 4
+    3301494: pPlane4 5
+    3301496: pPlane5 4
+    3301498: pPlane5 5
+    3301500: pPlane6 4
+    3301502: pPlane6 5
+    3301504: pPlane7 4
+    3301506: pPlane7 5
+    3301508: pPlane8 4
+    3301510: pPlane8 5
+    3301512: pPlane9 4
+    3301514: pPlane9 5
+    3301516: PressurePlate1
+    3301518: RedRoom1
+    3301520: RedRoomCorridor
+    3301522: Ring1
+    3301524: Ring2
+    3301526: Ring3
+    3301528: SpikeyCubeObject8
+    3301530: SpikeyCubeObject9
+    3301532: StartingRoom3
+    3301534: Statue
+    3301536: Statue 1
+    3301538: Statue 2
+    3301540: Statue 3
+    3301542: StatueArms
+    3301544: StatueArms 1
+    3301546: StatueArms 2
+    3301548: StatueArms 3
+    3301550: TestObjects1:pPlatonic1
+    3301552: TestObjects1:pPlatonic2
+    3301554: TestObjects1:pPlatonic3
+    3301556: TestObjects1:pTorus1
+    3301558: TreeTrunk1 4
+    3301560: TreeTrunk1 5
+    3301562: VolumeSlider1
+    3301564: WallTrim1 1
+    3301566: WallTrim1 2
+    3301568: WallTrim2
+    3301570: whale
+    3301572: WhiteRoomCorridor
+    3301574: WhiteRoomCorridor1
+    3301576: WhiteRoomCorridor2
+    3301578: WhiteRoomCorridor3
     4300000: Floor
     4300002: Music_Note_Object_1
     4300004: Pedestal2
@@ -2324,9 +4128,378 @@ ModelImporter:
     4300860: pCube32
     4300862: pCylinder4
     4300864: pCube33
+    4300866: PaintingFrame
+    4300868: Ceiling1
+    4300870: Ceiling2
+    4300872: PaintingFrame1
+    4300874: WallTrim1
+    4300876: ColumnTop1
+    4300878: CorinthColumn1
+    4300880: CorinthColumn2
+    4300882: ColumnTop2
+    4300884: StartingGallery
+    4300886: PaintingFrame2
+    4300888: PaintingFrame3
+    4300890: PaintingFrame4
+    4300892: PaintingFrame5
+    4300894: robot
+    4300896: ChandelierGlobe
+    4300898: pTorus2
+    4300900: pTorus4
+    4300902: pTorus5
+    4300904: pTorus3
+    4300906: StartingGallery1
+    4300908: Ceiling4
+    4300910: pCylinder8
+    4300912: BayWindow
+    4300914: ChandelierSmallRing
+    4300916: ChandelierMidRing
+    4300918: ChandelierBigRing
+    4300920: pCube123
+    4300922: pCube122
+    4300924: pCube121
+    4300926: pCube120
+    4300928: pCube119
+    4300930: pCube118
+    4300932: pCube117
+    4300934: pCube116
+    4300936: pCube115
+    4300938: pCube114
+    4300940: pCube113
+    4300942: pCube112
+    4300944: pCube111
+    4300946: pCube110
+    4300948: pCube109
+    4300950: pCube108
+    4300952: pCube106
+    4300954: pCube104
+    4300956: pCube102
+    4300958: pCube100
+    4300960: SpinGlobe
+    4300962: SpikeyCubeObject8
+    4300964: Pedestal20
+    4300966: Pedestal21
+    4300968: SpikeyCubeObject9
+    4300970: pCube124
+    4300972: BrutalistArchInner2
+    4300974: whale
+    4300976: Corridor1
+    4300978: Ring1
+    4300980: Ring2
+    4300982: Ring3
+    4300984: Ceiling6
+    4300986: WhiteRoomCorridor
+    4300988: BirdBathTop
+    4300990: BirdBath_Column
+    4300992: BirdBath_Base
+    4300994: BirdBath_Water
+    4300996: ChromeRaiseSphere
+    4300998: RedRoomCorridor
+    4301000: Statue
+    4301002: StatueArms
+    4301004: Statue
+    4301006: StatueArms
+    4301008: Statue
+    4301010: StatueArms
+    4301012: Statue
+    4301014: StatueArms
+    4301016: Floor1
+    4301018: Floor2
+    4301020: Floor3
+    4301022: Floor4
+    4301024: Floor5
+    4301026: Floor6
+    4301028: Floor7
+    4301030: Floor9
+    4301032: Floor8
+    4301034: Floor10
+    4301036: Floor11
+    4301038: Floor12
+    4301040: Floor13
+    4301042: Ceiling7
+    4301044: TestObjects1:pTorus1
+    4301046: pCube1
+    4301048: Grapes
+    4301050: Pedestal17
+    4301052: Pedestal16
+    4301054: Pedestal15
+    4301056: Pedestal14
+    4301058: WallTrim2
+    4301060: Pedestal13
+    4301062: Pedestal12
+    4301064: Pedestal11
+    4301066: Pedestal10
+    4301068: TestObjects1:pPlatonic1
+    4301070: TestObjects1:pPlatonic2
+    4301072: TestObjects1:pPlatonic3
+    4301074: Ceiling8
+    4301076: RedRoom1
+    4301078: ColumnTop1
+    4301080: CorinthColumn1
+    4301082: WallTrim1
+    4301084: CorinthColumn2
+    4301086: ColumnTop2
+    4301088: ColorPhone
+    4301090: StartingRoom3
+    4301092: ColumnTop1
+    4301094: CorinthColumn1
+    4301096: WallTrim1
+    4301098: CorinthColumn2
+    4301100: ColumnTop2
+    4301102: WhiteRoomCorridor1
+    4301104: WhiteRoomCorridor2
+    4301106: pCube2
+    4301108: BayWindow1
+    4301110: WhiteRoomCorridor3
+    4301112: TreeTrunk1
+    4301114: pPlane16
+    4301116: pPlane15
+    4301118: pPlane14
+    4301120: pPlane11
+    4301122: pPlane13
+    4301124: pPlane12
+    4301126: pPlane16
+    4301128: pPlane15
+    4301130: pPlane14
+    4301132: pPlane11
+    4301134: pPlane13
+    4301136: pPlane12
+    4301138: pPlane16
+    4301140: pPlane15
+    4301142: pPlane14
+    4301144: pPlane11
+    4301146: pPlane13
+    4301148: pPlane12
+    4301150: pPlane16
+    4301152: pPlane15
+    4301154: pPlane14
+    4301156: pPlane11
+    4301158: pPlane13
+    4301160: pPlane12
+    4301162: pPlane16
+    4301164: pPlane15
+    4301166: pPlane14
+    4301168: pPlane11
+    4301170: pPlane13
+    4301172: pPlane12
+    4301174: pPlane16
+    4301176: pPlane15
+    4301178: pPlane14
+    4301180: pPlane11
+    4301182: pPlane13
+    4301184: pPlane12
+    4301186: pPlane24
+    4301188: pPlane23
+    4301190: pPlane22
+    4301192: pPlane18
+    4301194: pPlane17
+    4301196: pPlane21
+    4301198: pPlane19
+    4301200: pPlane20
+    4301202: pPlane24
+    4301204: pPlane23
+    4301206: pPlane22
+    4301208: pPlane18
+    4301210: pPlane17
+    4301212: pPlane21
+    4301214: pPlane19
+    4301216: pPlane20
+    4301218: pPlane3
+    4301220: pPlane4
+    4301222: pPlane5
+    4301224: pPlane6
+    4301226: pPlane7
+    4301228: pPlane8
+    4301230: pPlane9
+    4301232: pPlane10
+    4301234: pPlane16
+    4301236: pPlane15
+    4301238: pPlane14
+    4301240: pPlane11
+    4301242: pPlane13
+    4301244: pPlane12
+    4301246: pPlane16
+    4301248: pPlane15
+    4301250: pPlane14
+    4301252: pPlane11
+    4301254: pPlane13
+    4301256: pPlane12
+    4301258: pPlane16
+    4301260: pPlane15
+    4301262: pPlane14
+    4301264: pPlane11
+    4301266: pPlane13
+    4301268: pPlane12
+    4301270: pPlane16
+    4301272: pPlane15
+    4301274: pPlane14
+    4301276: pPlane11
+    4301278: pPlane13
+    4301280: pPlane12
+    4301282: pPlane16
+    4301284: pPlane15
+    4301286: pPlane14
+    4301288: pPlane11
+    4301290: pPlane13
+    4301292: pPlane12
+    4301294: pPlane16
+    4301296: pPlane15
+    4301298: pPlane14
+    4301300: pPlane11
+    4301302: pPlane13
+    4301304: pPlane12
+    4301306: TreeTrunk1
+    4301308: pPlane16
+    4301310: pPlane15
+    4301312: pPlane14
+    4301314: pPlane11
+    4301316: pPlane13
+    4301318: pPlane12
+    4301320: pPlane16
+    4301322: pPlane15
+    4301324: pPlane14
+    4301326: pPlane11
+    4301328: pPlane13
+    4301330: pPlane12
+    4301332: pPlane16
+    4301334: pPlane15
+    4301336: pPlane14
+    4301338: pPlane11
+    4301340: pPlane13
+    4301342: pPlane12
+    4301344: pPlane16
+    4301346: pPlane15
+    4301348: pPlane14
+    4301350: pPlane11
+    4301352: pPlane13
+    4301354: pPlane12
+    4301356: pPlane16
+    4301358: pPlane15
+    4301360: pPlane14
+    4301362: pPlane11
+    4301364: pPlane13
+    4301366: pPlane12
+    4301368: pPlane16
+    4301370: pPlane15
+    4301372: pPlane14
+    4301374: pPlane11
+    4301376: pPlane13
+    4301378: pPlane12
+    4301380: pPlane24
+    4301382: pPlane23
+    4301384: pPlane22
+    4301386: pPlane18
+    4301388: pPlane17
+    4301390: pPlane21
+    4301392: pPlane19
+    4301394: pPlane20
+    4301396: pPlane24
+    4301398: pPlane23
+    4301400: pPlane22
+    4301402: pPlane18
+    4301404: pPlane17
+    4301406: pPlane21
+    4301408: pPlane19
+    4301410: pPlane20
+    4301412: pPlane3
+    4301414: pPlane4
+    4301416: pPlane5
+    4301418: pPlane6
+    4301420: pPlane7
+    4301422: pPlane8
+    4301424: pPlane9
+    4301426: pPlane10
+    4301428: pPlane16
+    4301430: pPlane15
+    4301432: pPlane14
+    4301434: pPlane11
+    4301436: pPlane13
+    4301438: pPlane12
+    4301440: pPlane16
+    4301442: pPlane15
+    4301444: pPlane14
+    4301446: pPlane11
+    4301448: pPlane13
+    4301450: pPlane12
+    4301452: pPlane16
+    4301454: pPlane15
+    4301456: pPlane14
+    4301458: pPlane11
+    4301460: pPlane13
+    4301462: pPlane12
+    4301464: pPlane16
+    4301466: pPlane15
+    4301468: pPlane14
+    4301470: pPlane11
+    4301472: pPlane13
+    4301474: pPlane12
+    4301476: pPlane16
+    4301478: pPlane15
+    4301480: pPlane14
+    4301482: pPlane11
+    4301484: pPlane13
+    4301486: pPlane12
+    4301488: pPlane16
+    4301490: pPlane15
+    4301492: pPlane14
+    4301494: pPlane11
+    4301496: pPlane13
+    4301498: pPlane12
+    4301500: PaintingFrame7
+    4301502: PaintingFrame10
+    4301504: PaintingFrame11
+    4301506: PaintingFrame12
+    4301508: PaintingFrame13
+    4301510: Birb1
+    4301512: BirdBathTop
+    4301514: BirdBath_Column
+    4301516: BirdBath_Base
+    4301518: BirdBath_Water
+    4301520: BirdBathTop
+    4301522: BirdBath_Column
+    4301524: BirdBath_Base
+    4301526: BirdBath_Water
+    4301528: BirdBathTop
+    4301530: BirdBath_Column
+    4301532: BirdBath_Base
+    4301534: BirdBath_Water
+    4301536: BirdBathTop
+    4301538: BirdBath_Column
+    4301540: BirdBath_Base
+    4301542: BirdBath_Water
+    4301544: BirdBathTop
+    4301546: BirdBath_Column
+    4301548: BirdBath_Base
+    4301550: BirdBath_Water
+    4301552: BirdBathTop
+    4301554: BirdBath_Column
+    4301556: BirdBath_Base
+    4301558: BirdBath_Water
+    4301560: Birb2
+    4301562: Birb3
+    4301564: Birb4
+    4301566: Birb5
+    4301568: Birb6
+    4301570: LeverConsole1
+    4301572: PressurePlate1
+    4301574: VolumeSlider1
+    4301576: Lever1
+    4301578: LeverHolder1
+    7400000: Take 001
     9500000: //RootNode
+    13700000: robot
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GalaxySpheres
+    second: {fileID: 2100000, guid: a26ff8944ff34b84e8c045e6ba713ce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassWindowPanes
+    second: {fileID: 2100000, guid: 64d1d08d4a1494c428adee0ff7c975b2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -2357,7 +4530,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.01
+    globalScale: 0.02
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -2366,7 +4539,7 @@ ModelImporter:
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
@@ -2377,12 +4550,12 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.04
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0

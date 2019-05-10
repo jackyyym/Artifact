@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// changes volume, deform, and spinning of gameobject based on proximity
+
 public class ProximityBounce : MonoBehaviour
 {
 

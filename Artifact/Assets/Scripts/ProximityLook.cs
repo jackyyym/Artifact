@@ -16,6 +16,8 @@ public class ProximityLook : MonoBehaviour
     private AudioSource clip;
     public TwistDeformer d;
 
+    private float radiusmax = 50f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -41,6 +43,8 @@ public class ProximityLook : MonoBehaviour
         float normalzed_angdis = (angdis - maxdis) / (mindis - maxdis);
 
         // main chunk of setting spin speed and clip volume
+        float dis = Vector3.Distance(new Vector3(transform.position.x, 0, transform.position.z), new Vector3(Camera.main.transform.position.x, 0, Camera.main.transform.position.z));
+        if (dis < radiusmax)
         if (r.IsVisibleFrom(Camera.main) && !Physics.Linecast(Camera.main.transform.position, transform.position))
         {
             // between min and max bounds, volume and turning speed scale between 0 and 1
@@ -63,6 +67,11 @@ public class ProximityLook : MonoBehaviour
                 clip.volume = 0;
                 d.EndAngle = 0;
             }
+        }
+        else
+        {
+            clip.volume = 0;
+            d.EndAngle = 0;
         }
         else
         {

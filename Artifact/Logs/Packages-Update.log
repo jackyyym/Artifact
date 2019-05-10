@@ -18,3 +18,21 @@ Update Mode: updateDependencies
 
 The following packages were updated:
   com.unity.package-manager-ui from version 2.0.3 to 2.0.7
+
+=== Tue May  7 21:33:35 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.xr.openvr.standalone from version 1.0.3 to 1.0.5
+
+=== Tue May  7 21:40:47 2019
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.beans.deform@https://github.com/keenanwoodall/Deform.git
+  com.unity.xr.oculus.standalone@1.29.1
+  com.unity.xr.openvr.standalone@1.0.5

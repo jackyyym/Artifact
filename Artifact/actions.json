@@ -15,6 +15,14 @@
       "requirement": "mandatory"
     },
     {
+      "name": "/actions/default/in/pose",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/default/in/triggerAction",
+      "type": "boolean"
+    },
+    {
       "name": "/actions/default/out/Haptic",
       "type": "vibration"
     },

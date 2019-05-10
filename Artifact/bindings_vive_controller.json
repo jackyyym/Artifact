@@ -84,7 +84,16 @@
     },
     "/actions/default": {
       "chords": [],
-      "poses": [],
+      "poses": [
+        {
+          "output": "/actions/default/in/pose",
+          "path": "/user/hand/left/pose/raw"
+        },
+        {
+          "output": "/actions/default/in/pose",
+          "path": "/user/hand/right/pose/raw"
+        }
+      ],
       "haptics": [
         {
           "output": "/actions/default/out/haptic",
@@ -96,6 +105,26 @@
         }
       ],
       "sources": [
+        {
+          "path": "/user/hand/left/input/trigger",
+          "mode": "button",
+          "parameters": {},
+          "inputs": {
+            "click": {
+              "output": "/actions/default/in/triggeraction"
+            }
+          }
+        },
+        {
+          "path": "/user/hand/right/input/trigger",
+          "mode": "button",
+          "parameters": {},
+          "inputs": {
+            "click": {
+              "output": "/actions/default/in/triggeraction"
+            }
+          }
+        },
         {
           "path": "/user/hand/right/input/trackpad",
           "mode": "dpad",

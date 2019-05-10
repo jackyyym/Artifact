@@ -3,12 +3,13 @@
     "com.beans.deform": "https://github.com/keenanwoodall/Deform.git",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.2",
+    "com.unity.burst": "1.0.2",
     "com.unity.collab-proxy": "1.2.15",
+    "com.unity.mathematics": "1.0.1",
     "com.unity.package-manager-ui": "2.0.7",
     "com.unity.purchasing": "2.0.3",
     "com.unity.textmeshpro": "1.3.0",
-    "com.unity.xr.oculus.standalone": "1.29.1",
-    "com.unity.xr.openvr.standalone": "1.0.3",
+    "com.unity.xr.openvr.standalone": "1.0.5",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
@@ -42,7 +43,7 @@
   },
   "lock": {
     "com.beans.deform": {
-      "hash": "f930f37f0a026a71b7a7ef90bd8a8a94332b862a",
+      "hash": "e860f98837371b0bb958563d26450b8132b96cb5",
       "revision": "HEAD"
     }
   }
