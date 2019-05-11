@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
 
+// Jacky McGrath May 2019
+
 // controller for the knobs of the mixing table
 public class KnobController : MonoBehaviour
 {
@@ -22,7 +24,8 @@ public class KnobController : MonoBehaviour
     private AudioSource clip;
 
     public float radiusmax;
-    private float numdamp = (1 / 180f);
+    private float numdamp = (1 / 180f); // dampens the rotation to convert from euler degrees to normalized 0 to 1
+                                        // turning 180 degrees can change the normalized value from 0 to 1
 
     // Start is called before the first frame update
     void Start()
@@ -54,17 +57,18 @@ public class KnobController : MonoBehaviour
             Vector3 cross = Vector3.Cross(oldright, currentcontroller.transform.right);
             if (cross.y < 0)
                 angle = -angle;
-            transform.Rotate(0, angle, 0);
+            transform.Rotate(0, angle, 0); // rotate knob by amount controller was turned
 
             currentlevel += angle * numdamp;
             currentlevel = Mathf.Clamp(currentlevel, 0.0f, 1.0f); // level must be clamped between 0 and 1
             float xrot = ((1 - currentlevel) * 90) - 50;
-            arm.transform.localRotation = Quaternion.Euler(xrot, 0, 0);
+            arm.transform.localRotation = Quaternion.Euler(xrot, 0, 0); // rotate the arms based on rotation of the knob, clamped
 
             clip.volume = currentlevel;
             
             oldright = currentcontroller.transform.right;
         }
+        // stops playing when the player is too far
         float distance = Vector3.Distance(new Vector3(transform.position.x, 0, transform.position.z), new Vector3(Camera.main.transform.position.x, 0, Camera.main.transform.position.z));
         if (distance > radiusmax)
         clip.volume = 0;

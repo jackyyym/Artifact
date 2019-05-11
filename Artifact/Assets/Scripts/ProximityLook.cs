@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using Deform;
 
-// for the cube with sine
+// Jacky McGrath May 2019
+
+// This script causes objects to deform, spin, and play their assigned audio track when the player looks at them.
 
 public class ProximityLook : MonoBehaviour
 {
@@ -67,11 +69,6 @@ public class ProximityLook : MonoBehaviour
                 clip.volume = 0;
                 d.EndAngle = 0;
             }
-        }
-        else
-        {
-            clip.volume = 0;
-            d.EndAngle = 0;
         }
         else
         {

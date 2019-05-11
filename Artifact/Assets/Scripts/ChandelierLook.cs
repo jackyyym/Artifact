@@ -2,12 +2,19 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * // Jacky McGrath May 2019
+ * 
+ * This code is attached to the chandelier and controls volume changing and rotation as the player looks at it
+ *
+ */
+
 public class ChandelierLook : MonoBehaviour
 {
     public float maxdis = 15, mindis = 5;
     public float turnspeed = 5;
 
-    public GameObject c_big, c_mid, c_smol;
+    public GameObject c_big, c_mid, c_smol; // three rings of the chandelier
     public GameObject aoe;
     private AudioSource clip;
     private Renderer r;

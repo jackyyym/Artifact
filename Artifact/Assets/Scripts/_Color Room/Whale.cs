@@ -2,12 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Jacky McGrath May 2019
+
+// This script causes the whale to wave, as well as cycle through the colors of the rainbow
+// Also causes the room lighting to cycle through the rainbow
+
 public class Whale : MonoBehaviour
 {
     private Color[] colors = {Color.red, Color.magenta, Color.blue, Color.cyan, Color.green, Color.yellow};
     private MeshRenderer mesh;
 
-    private float emissiontime = 5f;
+    private float emissiontime = 5f; // 5 seconds total to fully switch between each element of colors[]
 
     public Light light, light2;
     public Deform.SineDeformer sine;
@@ -32,7 +37,7 @@ public class Whale : MonoBehaviour
     {
         int current_color = 0, nextcolor = 1;
         float timepassed = 0;
-        while(true)
+        while(true) // central loop for cycling through the colors of the rainbow, lerps from one element of colors[] to the next
         {
             
             mesh.material.SetColor("_EmissionColor", Color.LerpUnclamped(colors[current_color], colors[nextcolor], timepassed / emissiontime));

@@ -1,0 +1,10 @@
+Built project is included under /Artifact/Builds/Build V1.0/, simply run using SteamVR and a Vive headset.
+To build project, use unity 2018.
+
+Controls:
+   Left Touchpad:  horizontal movement
+   Right Touchpad: click left and right sides of touchpad to turn left and right
+   Trigger:        interact
+   ESC:            Exit
+
+https://github.com/jackyyym/Artifact

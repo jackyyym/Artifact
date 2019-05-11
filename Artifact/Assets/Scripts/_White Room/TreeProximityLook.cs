@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Jacky McGrath May 2019
+
 // spins leaves based on looking at tree
 public class TreeProximityLook : MonoBehaviour
 {

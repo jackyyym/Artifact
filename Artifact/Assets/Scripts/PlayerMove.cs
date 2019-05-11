@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
 
-// manager script for steamvr actions
+// Jacky McGrath May 2019
+//
+// manager script for steamvr actions and player movement
 
 public class PlayerMove : MonoBehaviour
 {

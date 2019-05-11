@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using Valve.VR;
 
+// Jacky McGrath May 2019
+
 // This script controls toggleing the bird baths on and off
 public class BirdBathWater : MonoBehaviour
 {
@@ -15,6 +17,7 @@ public class BirdBathWater : MonoBehaviour
     private float deformtime = 1f;
     private float max_amp = .4f;
     private float heightchange = .2f;
+    public float radiusmax = 40f;
     private AudioSource track;
 
     public PlayerMove player;
@@ -36,6 +39,7 @@ public class BirdBathWater : MonoBehaviour
 
     private void FixedUpdate()
     {
+        // player pulls trigger while controller is inside of the water
         if (inside && !deforming && player.triggerAction.stateDown)
         {
             if (!active)
@@ -43,34 +47,41 @@ public class BirdBathWater : MonoBehaviour
             else
                 StartCoroutine(ToggleOff());
         }
-
+        // stops playing when the player is too far
+        float distance = Vector3.Distance(new Vector3(transform.position.x, 0, transform.position.z), new Vector3(Camera.main.transform.position.x, 0, Camera.main.transform.position.z));
+        if (distance > radiusmax)
+            track.volume = 0;
         ripple.Offset = offsetcurve.Evaluate(Time.time);
         
     }
-
+    
+    // called when toggling bird bath on
     IEnumerator ToggleOn()
     {
         deforming = true;
         float timepassed = 0;
         Vector3 startpos = transform.position;
         Vector3 endpos = transform.position;
+        // endpos is the elevated height that the bird bath water will arrive at
         endpos.y += heightchange;
         while (timepassed < deformtime)
         {
             timepassed += Time.deltaTime;
-            ripple.Amplitude = (timepassed / deformtime) * max_amp;
-            track.volume = timepassed / deformtime;
-            transform.position = Vector3.Lerp(startpos, endpos, smoothcurve.Evaluate(timepassed / deformtime));
+            ripple.Amplitude = (timepassed / deformtime) * max_amp; // interpolates the amplitude of the deformation
+            track.volume = timepassed / deformtime; // interpolates track volume
+            transform.position = Vector3.Lerp(startpos, endpos, smoothcurve.Evaluate(timepassed / deformtime)); // interpolates position
             yield return null;
         }
+        // finishes transitioning between states
         ripple.Amplitude = max_amp;
         track.volume = 1;
         deforming = false;
         active = true;
-        transform.position = endpos;   
+        transform.position = endpos;
         yield break;
     }
-
+    
+    // called when toggling bird bath off, inverse of ToggleOn()
     IEnumerator ToggleOff()
     {
         deforming = true;
